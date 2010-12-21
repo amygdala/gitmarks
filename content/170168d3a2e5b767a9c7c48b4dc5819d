@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script><title>Daily Kos: Building the shadow Internet</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><link rel="stylesheet" href="/css/nestedwide.css" type="text/css" media="all" id="userCss" />
+<link rel="stylesheet" href="http://images2.dailykos.com/images/admin/poll_table.css" type="text/css" media="all" />
+<link href="http://images2.dailykos.com/assets/weekly.css" rel="stylesheet" type="text/css" />
+<link href="http://images2.dailykos.com/assets/image_upload.css" rel="stylesheet" type="text/css" />
+
+
+
+<script src="/scripts/jquery-1.2.2.pack.js" type="text/javascript">
+</script>
+<script src="/scripts/jquery.form.js" type="text/javascript">
+</script>
+<script>
+var J = jQuery.noConflict();
+</script>
+
+
+<script src="/scripts/comments.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+stLight.options({
+   publisher:'7a690d02-6a6d-438c-9e8e-2ab88a300217'
+});
+</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-4201116381449156");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-4201116381449156", "DK_Story_ATF_728x90");
+  GA_googleAddSlot("ca-pub-4201116381449156", "DK_Story_BTF_300x250");
+  GA_googleAddSlot("ca-pub-4201116381449156", "DK_FP_BTF_Sky1_120x600");
+  GA_googleAddSlot("ca-pub-4201116381449156", "DK_FP_BTF_Sky2_120x600");
+  GA_googleAddSlot("ca-pub-4201116381449156", "DK_Skin_Background");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+
+ <link rel="canonical" href="http://www.dailykos.com/storyonly/2010/12/18/929935/-Building-the-shadow-Internet" /> 
+<link href="http://images.dailykos.com/assets/countdown.css" rel="stylesheet" type="text/css" charset="utf-8"/>
+        <script src="http://images2.dailykos.com/assets/countdown.js" type="text/javascript" charset="utf-8"></script>
+</head><body class="ads"><!-- ad stuff -->
+<script type='text/javascript'>
+GA_googleFillSlot("DK_Skin_Background");
+</script>
+<div style="width: 728px; margin: 0 auto;">
+<script type="text/javascript">
+  GA_googleFillSlot("DK_Story_ATF_728x90");
+</script>
+</div>
+
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://z.blogads.com/www/delivery/ajs.php':'http://z.blogads.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=130");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://z.blogads.com/www/delivery/ck.php?n=a71aea4e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://z.blogads.com/www/delivery/avw.php?zoneid=130&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a71aea4e' border='0' alt='' /></a></noscript><div id="container"><div id="main"><h1 id="masthead"><a href="/"><span id="mastheadSpan"><img id="mastheadImg" src="http://images2.dailykos.com/images/admin/w_masthead_noads.jpg"  width="652" height="123" alt="Daily Kos" /></span></a></h1>
+<div id="story"><div class="entry">
+<h2><span class="diaryTitle">Building the shadow Internet</span>  </h2><div id="sharing" style="float:right">
+<span class="st_sharethis_hcount" displayText="Share" st_title="Building the shadow Internet" st_url="http://www.dailykos.com/storyonly/2010/12/18/929935/-Building-the-shadow-Internet" style="vertical-align:top"></span>
+<span class="st_twitter_hcount" displayText="Tweet" st_title="Building the shadow Internet" st_url="http://www.dailykos.com/storyonly/2010/12/18/929935/-Building-the-shadow-Internet" style="vertical-align:top"></span>
+<!-- span class="st_email_hcount" displayText="Email" st_title="Building the shadow Internet" st_url="http://www.dailykos.com/storyonly/2010/12/18/929935/-Building-the-shadow-Internet"></span -->
+
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.dailykos.com%2Fstoryonly%2F2010%2F12%2F18%2F929935%2F-Building-the-shadow-Internet&amp;layout=button_count&amp;show_faces=false&amp;width=180&amp;action=like&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="width:90px; height:35px; vertical-align:top; overflow:hidden;" allowTransparency="true"></iframe>
+</div><h3 class="byline">by <a href="http://danps.dailykos.com">danps</a>
+ 
+</h3><h4 class="date">Sat Dec 18, 2010 at 03:14:05 AM PST</h4>
+<div class="intro"><p>Two developments have started to fragment the Internet of late. &nbsp;One looks quite a bit more benign, but both threaten the openness that has been a hallmark of the connected world.</p>
+
+<p>Cross posted from <a href="http://www.pruningshears.us/">Pruning Shears</a>.</p>
+
+</div><!-- polls come after this -->
+
+
+<ul class="catcom"><li><a href="http://danps.dailykos.com/">danps's diary</a> ::  :: </li><li> </li></ul>  </div>
+<div id="extended"><p><em>No Associated Press content was harmed in the writing of this post</em></p><p>The rise of Internet-enabled mobile devices has had some interesting consequences. &nbsp;On the face of it, smart phones and tablets are a boon. &nbsp;They allow people to access email and web sites anywhere, not just when tethered to a desktop. &nbsp;Laptops, with their greater bulk and relatively short battery life, have traditionally been business devices for those who need to work remotely.</p><p>Smaller devices changed that. &nbsp;Now that consumers are used to having the Web in their pockets, or throwing a tablet into a small bag, everyone is trying to deliver a high quality mobile Web experience. &nbsp;Reduced screen sizes make many pages difficult to view, which leads to mobile applications (apps) designed specifically for the new form factor. &nbsp;Which then leads to app stores.</p><p>App stores have helped turn devices into unique ecosystems. &nbsp;In the desktop computer world this has not been an issue: most people would choose one operating system and stick with it. &nbsp;But if you own an iPhone, you'll have apps designed specifically for it. &nbsp;You cannot just pick up a Blackberry and immediately start using it the same way. &nbsp;Sure you can find many of the same apps (and pay for them again), but that is a hassle. &nbsp;Now that carriers <a href="http://www.slashphone.com/verizon-wireless-now-offers-exclusive-mobile-content-from-new-beyonce-music-album-143279" title="Verizon Wireless Now Offers Exclusive Mobile Content from New Beyonce Music Album | Kim Poh Liaw">are starting</a> to sign exclusive deals <a href="http://phandroid.com/2010/11/19/verizon-streaming-nfl-content-free-this-weekend-only/" title="Verizon Streaming NFL Content Free this Weekend Only | Kevin Krause">for content</a>, it might become less and less an issue of what software runs on it than what agreements have been inked with whom.</p><p>All these new services will be introduced on spiffy new next-generation high speed networks. &nbsp;Which, incidentally, are being rolled out with <a href="http://www.pcmag.com/print_article2/0,1217,a=257638,00.asp?hidPrint=true" title="Verizon LTE Blows Through Monthly Data Cap in 32 Minutes | Sascha Segan">absurdly limited</a> usage caps. &nbsp;Which, incidentally, should not exist at all. &nbsp;Back in the mid-90's there was lots of freaking out when AOL unveiled an unlimited dial up access plan for $19.95 per month. &nbsp;The conventional wisdom was that the infrastructure would not support the increased demand. &nbsp;Guess what? &nbsp;ISPs built out their networks, capacity rose to meet the new demand, and all was well. &nbsp;The same should happen now. &nbsp;If providers are concerned about where the money will come from, they should start with the $200 billion <a href="http://archive.webpronews.com/topnews/topnews/wpn-60-20060512TelcosLay200BillionGooseEgg.html" title="Telcos Lay $200 Billion Goose Egg | Jason Lee Miller">already lavished</a> upon them by taxpayers for just this purpose.</p><p>Speaking of AOL, here is how the folks on CNET's Buzz Out Loud <a href="http://www.cnet.com/8301-19709_1-20024909-10.html?tag=mncol;txt" title="Buzz Out Loud 1365: New dinosaur discovery: Tongadactyl (podcast) | Molly Wood">talked about</a> these new mobile environments (starts around 15:15):
+<blockquote>
+<p><strong>Natali Morris:</strong> What they want you to think is that your computer <strong>is</strong> the Internet, not that your computer does anything else than what Google permits your computer to do, so not only do they own the Internet, they own your entire computing digital life.<br /><br /><strong>Molly Wood:</strong> Well, because everyone is trying to own the connected experience, it is no longer the Web experience, it is the <strong>connected</strong> experience. &nbsp;And everybody wants to own that, and have your connection happen through their app.<br /><br /><strong>Benito Gonzalez:</strong> It's great - everybody wants to be AOL in the 90's.
+</p>
+</blockquote>
+<p>If you were actually on AOL in the 90's you probably laughed at that last line, because AOL really did bend over backwards to get its customers to never stray from its sites. &nbsp;When you connected with AOL it launched with an AOL browser and showed you the AOL home page, which contained links to sports, entertainment, gossip, etc. - all on AOL. &nbsp;Many people thought AOL <strong>was</strong> the Internet because they never went anywhere else. &nbsp;That is what is happening again with these increasingly self-contained systems.</p><p>Consider this in conjunction with two other items. &nbsp;First, the <a href="http://www.pcworld.com/printable/article/id,213288/printable.html" title="Prepare For an Explosion in Mobile Cloud Apps | Keir Thomas">increasing push</a> for "cloud computing," which is just a buzz phrase for remote storage. &nbsp;Instead of having a local hard drive, a provider like Google or Amazon makes their space available to you. &nbsp;All your files are on their servers; as long as your mobile device has an app for it, you can get to them. &nbsp;Tablet, netbook, cell phones - multiple devices all able to see the same stuff. &nbsp;Sounds much more convenient than having it all on a PC and copying it everywhere right? &nbsp;And they'll take care of the backups, upgrades and other administrative chores too. &nbsp;What could be simpler?</p><p>Then think about the FCC's soon-to-be released standards that will <a href="http://gigaom.com/2010/12/01/fccs-new-net-neutrality-rules-to-regulate-wireless-lightly/" title="FCC's New Net Neutrality Rules to Regulate Wireless Lightly | Ryan Kim">largely exempt</a> wireless carriers from net neutrality rules. &nbsp;In practice it will socialize users to expect a more restricted experience with these devices (even more so than the reduced processing power and screen size already do). &nbsp;Companies will be free to <a href="http://news.cnet.com/8301-1023_3-10021654-93.html" title="Comcast to throttle some customers' Web speeds | Steven Musil">throttle</a> or <a href="http://emptywheel.firedoglake.com/2010/12/15/quasi-governmental-entities-att-and-verizon-blocking-wikileaks-sites/" title="Quasi-Governmental Entities AT&amp;T and Verizon Blocking Wikileaks Sites | emptywheel">entirely block</a> sites and users accustomed to a more limited Internet will accept it (perhaps without even knowing it is happening).</p><p>Now let's say all your data is on the cloud. &nbsp;It is very versatile and convenient, provided you remain on good terms with your provider. &nbsp;But as time goes on and more data gets on the cloud, you become more dependent on it. &nbsp;You can walk away from a service that has only a handful of files hosted. &nbsp;What if you put all of your data there? &nbsp;All your photos, music and so on? &nbsp;How long would it take to download all that if you had to without much warning? &nbsp;Would doing so bust your usage cap? &nbsp;How about private data like electronic tax returns? &nbsp;Will you keep a smaller, separate local drive for that or trust the provider to safeguard it? &nbsp;Keep them out of the cloud and you have two drives to keep track of. &nbsp;What happens if there is a dispute and the provider decides you have violated its terms of service? &nbsp;Will you be given the chance to retrieve your files? &nbsp;If so where will you put them?</p><p>There are worries beyond customer/business ones. &nbsp;What if you become troublesome to the powers that be? &nbsp;We already know the government will <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/01/lieberman" title="Joe Lieberman emulates Chinese dictators | Glenn Greenwald">lean hard</a> on hosting companies to pull the plug, and companies will comply. &nbsp;What guarantee is there that your files will not start getting mirrored by, say, the NSA? &nbsp;<a href="http://www.rawstory.com/rs/2010/12/warrant-needed-snoop-emails-court/" title="Warrant needed to snoop on your emails, court finally rules | Daniel Tencer">Recent developments</a> notwithstanding, there is <a href="http://techcrunch.com/2010/12/14/stallman-cloud-computing-careless-computing/" title="'Careless Computing' And The Cloud: Richard Stallman Warns Against ChromeOS | John Biggs">no reason</a> to expect it couldn't happen, and quickly. &nbsp;One of the reasons the FISA Amendments Act was so damaging was because it formalized a procedure by which the Constitution may be completely circumvented. &nbsp;It goes like this:</p><p>Government goes to the companies (and <a href="http://www.denverpost.com/headlines/ci_7511374" title="Nacchio: Use of state secrets fought | Andy Vuong">you better</a> fucking <a href="http://onlinejournal.com/artman/publish/article_5637.shtml" title="NSA threatened Qwest CEO with repercussions if he didn&rsquo;t cut a surveillance deal | Wayne Madsen">play ball</a>, mister) and says it wants absolutely everything, no warrants required. &nbsp;The companies hand it over. &nbsp;If it goes to court Congress will pass a law granting <a href="http://www.fas.org/sgp/crs/intel/RL34600.pdf" title="Retroactive Immunity Provided by the FISA Amendments Act of 2008 | Edward C. Liu">retroactive immunity</a> before even <strong>discovery</strong> can begin. &nbsp;Case closed, problem solved. &nbsp;That is <strong>exactly</strong> how it played out in 2008. &nbsp;We have seen this play before. &nbsp;We know how it ends.</p><p>That is what is beginning now. &nbsp;Companies are offering an attractive, convenient and high speed (albeit capped and throttled) experience. &nbsp;Government sets rules privileging the handful of big providers, and an increasingly docile user base slowly funnels into one of those silos. &nbsp;Federal officials can then, if need be, work with these partners (Orwellian language intended) to get whatever it thinks it has to have - no legal hassles required. &nbsp;It is a very efficient way to manage an otherwise unwieldy population.</p><p>Many people are already thinking through the implications of all this. &nbsp;In an email exchange a couple weeks ago with CA Berkeley WV from <a href="http://wvablue.com/" title="West Virginia Blue - Democratic politics and progressive policies for West Virginia">wvablue.com</a> and <a href="https://twitter.com/CPCEconomy/lists/memberships" title="CPCEconomy">CPCEconomy</a>, she wrote from her smart phone (republished with her permission):
+</p>
+<blockquote>
+<p>I have this gadget here, but we still have copper wires to a rotary dial in the kitchen and the intertoobs in the front room comes from that same copper wire. Not ready to lay it all on the wireless altar.
+</p>
+</blockquote>
+<p>Similarly, in the wake of the <a href="http://news.cnet.com/8301-1023_3-20023918-93.html" title="U.S. seizes sites linked to copyright infringement | Steven Musil">government seizure</a> of dozens of domain names a couple weeks ago, a movement <a href="http://blogs.computerworld.com/17444/p2p_dns_to_take_on_icann_after_us_domain_seizures" title="P2P DNS to take on ICANN after US domain seizures | Darlene Storm">has started</a> for a peer-to-peer Domain Name Service (P2P DNS) system. &nbsp;Instead of relying on domain services that bow to official pressure, activists are working on distributing their own list of names and addresses so that, for instance, WikiLeaks will resolve to 213.251.145.96 on your computer irrespective of what the US (or by proxy your ISP) might want. &nbsp;This of course would be vulnerable to sabotage as well as <a href="http://www.imdb.com/title/tt0079470/quotes" title="Memorable quotes for Life of Brian">splintering of the</a> "Judean People's Front/People's Front of Judea" variety, but it offers a way to be independent of the <a href="http://www.ibtimes.com/articles/20090907/citigroup-2006-americamodern-day-plutonomy.htm" title="Citigroup 2006: America - A Modern Day Plutonomy | Trader Mark">plutonomy</a>.</p><p>We are seeing the development of an increasingly bright line in how users access the Internet. &nbsp;For most people, who don't know or can't be bothered, there will be an array of relatively cheap and fast wireless options that will allow them to stream media, store favorite music or picture files on remote drives, and generally live their digital lives happily in a gilded cage. &nbsp;(This all assumes no one takes an interest in the DRM status of their MP3 files or becomes concerned that their pictures might show things that touch on national security.) &nbsp;For those who do not want to live there - permanently, anyway - there will be another one: Wired, slower, locally stored and self-administered - that will provide access to that portion of the network that has not yet been smothered out of existence.</p></p>
+
+</div>
+</div><p id="tags"><span class="tagLabel">Tags:</span> <span id="tagLinks"><a href="/tag/Recommended">Recommended</a>, <a href="/tag/Internet">Internet</a>, <a href="/tag/censorship">censorship</a></span> (<a href="/tag">all tags</a>) :: <a href="/tag_version/2010/12/18/6358/5905">Previous Tag Versions</a></p>
+
+
+<div style="width: 300px; margin: 0 auto 10px auto"><script type="text/javascript">
+  GA_googleFillSlot("DK_Story_BTF_300x250");
+</script>
+</div>
+<script type='text/javascript'><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://z.blogads.com/www/delivery/ajs.php':'http://z.blogads.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=121");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><noscript><a href='http://z.blogads.com/www/delivery/ck.php?n=a2f77c3b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://z.blogads.com/www/delivery/avw.php?zoneid=121&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2f77c3b' border='0' alt='' /></a></noscript>
+
+                <div class="cbar">
+<form id="autorefreshControlForm" action="#" method="post">
+                <p>
+                <a href="/story/2010/12/18/929935/-Building-the-shadow-Internet">View Comments</a>
+                
+                 | <span class="cct">199</span> comments
+                
+                
+                
+                
+                </p>
+                </form>
+                <form id="cDForm" action="#" method="post" style="display:none;">
+                <p>
+                
+ <input id="sid" value="2010/12/18/6358/5905" type="hidden"
+ /><input type="hidden" id="uid" value="-1"  
+ /> <input type="hidden" id="uname" value="Anonymous Coward"
+ />  <label title="Set the comment display mode" id="cModeLabel">Comments:</label>
+<input id="cDExpand" name="cDMode" type="radio" value="Expand" /><label title="Display full text of all comments" for="cDExpand">Expand</label>
+<input id="cDShrink" name="cDMode" type="radio" value="Shrink" /><label title="Display summaries of all comments " for="cDShrink">Shrink</label>
+<input id="cDHide" name="cDMode" type="radio" value="Hide" checked="checked" /><label title="Hide all comments" for="cDHide">Hide</label>
+<input id="cDAlways" type="checkbox" value="Always" /><label id="cDAL" title="Always use this comment display mode?" for="cDAlways">(Always) &nbsp;|</label>
+<input id="cIIndented" name="cIMode" type="radio" value="Indented" /><label title="Display comments with indenting" for="cIIndented">Indented</label>
+<input id="cIFlat" name="cIMode" type="radio" value="Flat" /><label title="Display comments without indenting" for="cIFlat">Flat</label>
+  <input id="cIAlways" type="checkbox" value="Always" /><label title="Always use this comment indenting mode?" for="cIAlways">(Always)</label>
+        
+                </p>               	                
+</form></div>
+                <div id="cHelp" style="display:none;">
+                <div id="cHelpCloseButton"></div>
+                <h2>Daily Kos Help</h2>
+                <div id="cHelpContent"></div>
+                </div>
+
+<!-- begin comments -->	
+
+<!-- end comments -->
+<div id="recommenders" class="popup" style="display:none;"><a href="/user/uid:1596">DeminNewJ</a>, <a href="/user/uid:2263">canyonrat</a>, <a href="/user/uid:3982">ben masel</a>, <a href="/user/uid:4365">deben</a>, <a href="/user/uid:8124">mattman</a>, <a href="/user/uid:8141">emal</a>, <a href="/user/uid:8314">PeterHug</a>, <a href="/user/uid:8411">Susan Gardner</a>, <a href="/user/uid:9653">Debby</a>, <a href="/user/uid:15799">lzachary</a>, <a href="/user/uid:16376">bumblebums</a>, <a href="/user/uid:16634">Jerome a Paris</a>, <a href="/user/uid:18438">Gustogirl</a>, <a href="/user/uid:19640">Babsnc</a>, <a href="/user/uid:20146">cskendrick</a>, <a href="/user/uid:22682">bluesteel</a>, <a href="/user/uid:22946">CalNM</a>, <a href="/user/uid:25251">someRaven</a>, <a href="/user/uid:26477">maven98</a>, <a href="/user/uid:26703">oceanview</a>, <a href="/user/uid:27328">Iberian</a>, <a href="/user/uid:28515">nuttymango</a>, <a href="/user/uid:28772">Eddie C</a>, <a href="/user/uid:28795">wader</a>, <a href="/user/uid:29523">Explodingkitchen</a>, <a href="/user/uid:30517">Eric Blair</a>, <a href="/user/uid:31210">TexDem</a>, <a href="/user/uid:35218">joan reports</a>, <a href="/user/uid:37509">Pohjola</a>, <a href="/user/uid:40726">SadieB</a>, <a href="/user/uid:43612">machiado</a>, <a href="/user/uid:43902">Julie Gulden</a>, <a href="/user/uid:44489">Crazycab214</a>, <a href="/user/uid:44591">joanneleon</a>, <a href="/user/uid:48321">jarneys dad</a>, <a href="/user/uid:50613">sap</a>, <a href="/user/uid:50721">offred</a>, <a href="/user/uid:51492">panicbean</a>, <a href="/user/uid:56112">Jaime Frontero</a>, <a href="/user/uid:57035">cassidy3</a>, <a href="/user/uid:57606">jabbausaf</a>, <a href="/user/uid:63668">Oye Sancho</a>, <a href="/user/uid:64345">reddbierd</a>, <a href="/user/uid:65471">kovie</a>, <a href="/user/uid:66031">velaski</a>, <a href="/user/uid:66919">tarheelblue</a>, <a href="/user/uid:67016">Keone Michaels</a>, <a href="/user/uid:69911">Hear Our Voices</a>, <a href="/user/uid:69938">kestrel9000</a>, <a href="/user/uid:72353">blueoasis</a>, <a href="/user/uid:72551">Farradin</a>, <a href="/user/uid:72854">NBBooks</a>, <a href="/user/uid:72962">triv33</a>, <a href="/user/uid:73423">global citizen</a>, <a href="/user/uid:74559">Crashing Vor</a>, <a href="/user/uid:74876">SadieSue</a>, <a href="/user/uid:76125">sceptical observer</a>, <a href="/user/uid:79242">va dare</a>, <a href="/user/uid:83747">Nulwee</a>, <a href="/user/uid:84887">ammasdarling</a>, <a href="/user/uid:85446">One Pissed Off Liberal</a>, <a href="/user/uid:87398">Polacolor</a>, <a href="/user/uid:94755">FishOutofWater</a>, <a href="/user/uid:96529">terabytes</a>, <a href="/user/uid:96759">certainot</a>, <a href="/user/uid:97063">ilex</a>, <a href="/user/uid:98199">eOz</a>, <a href="/user/uid:99179">bnasley</a>, <a href="/user/uid:102228">cadejo4</a>, <a href="/user/uid:104074">carpunder</a>, <a href="/user/uid:105056">Got a Grip</a>, <a href="/user/uid:105891">JML9999</a>, <a href="/user/uid:107506">vet</a>, <a href="/user/uid:114357">zerone</a>, <a href="/user/uid:120918">bluesheep</a>, <a href="/user/uid:121864">mofembot</a>, <a href="/user/uid:125766">luckylizard</a>, <a href="/user/uid:126799">My Spin</a>, <a href="/user/uid:129096">priceman</a>, <a href="/user/uid:130619">palantir</a>, <a href="/user/uid:132863">toom</a>, <a href="/user/uid:133729">shortgirl</a>, <a href="/user/uid:134317">statsone</a>, <a href="/user/uid:136888">FudgeFighter</a>, <a href="/user/uid:137248">cameoanne</a>, <a href="/user/uid:139092">cybrestrike</a>, <a href="/user/uid:139379">J M F</a>, <a href="/user/uid:142644">The Dead Man</a>, <a href="/user/uid:145332">banjolele</a>, <a href="/user/uid:145682">Stranded Wind</a>, <a href="/user/uid:148551">mkor7</a>, <a href="/user/uid:148750">IndyRobin</a>, <a href="/user/uid:151132">asym</a>, <a href="/user/uid:152616">winkk</a>, <a href="/user/uid:158153">parse this</a>, <a href="/user/uid:159850">p gorden lippy</a>, <a href="/user/uid:166843">ItsSimpleSimon</a>, <a href="/user/uid:176683">al ajnabee</a>, <a href="/user/uid:177536">Colorado is the Shiznit</a>, <a href="/user/uid:178647">Bluefin</a>, <a href="/user/uid:184288">sixthestate</a>, <a href="/user/uid:186003">the national gadfly</a>, <a href="/user/uid:188106">Sand Hill Crane</a>, <a href="/user/uid:196664">muddy boots</a>, <a href="/user/uid:197898">floridablue</a>, <a href="/user/uid:199680">whoknu</a>, <a href="/user/uid:208885">Miggles</a>, <a href="/user/uid:219522">BlueDragon</a>, <a href="/user/uid:229952">We Won</a>, <a href="/user/uid:233186">The Lone Apple</a>, <a href="/user/uid:233619">Miep</a>, <a href="/user/uid:251065">Th0rn</a>, <a href="/user/uid:260266">geraldlaslo</a>, <a href="/user/uid:268076">TheGrandWazoo</a>, <a href="/user/uid:268155">TBug</a>, <a href="/user/uid:274938">MartyM</a></div>
+</div><div id="sidebar"><h2>Navigation</h2>
+<h3>Menu</h3>
+
+<ul>
+
+<li> <a href="http://www.dailykos.com/">Home</a></li> 
+
+<li> <a href="http://www.dailykos.com/section/Diary">Diaries</a></li> 
+<li><a href="http://www.dkosopedia.com/">DKosopedia</a></li>
+<li> <a href="http://www.dailykos.com/search">Search</a></li> 
+<li> <a href="http://www.dailykos.com/newuser">Create account</a></li><li><a href="http://www.dailykos.com/login">Login</a></li>
+<li><a href="http://www.dailykos.com/accounts">Lose Your Password?</a></li>
+
+</ul>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+kos.sid = "2010/12/18/6358/5905";
+kos.story_id = "929935";
+
+
+
+kos.checkDOM();
+
+</script>
+
+
+<h3>Advertising</h3><div style="padding-left:19px;"><div> 
+		   <object width="150" height="200"><param name="movie" value="http://kos.salsalabs.com/o/60000/images/dkSignUp.swf"></param><param name="allowFullScreen" value="true"><param name="play" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="WMode" value="opaque"><embed src="http://kos.salsalabs.com/o/60000/images/dkSignUp.swf" type="application/x-shockwave-flash" allowscriptaccess="always" play="true" allowfullscreen="false" wmode="opaque" width="150" height="200"></embed></object> 
+		</div> <link rel="stylesheet" type="text/css" href="http://images.dailykos.com/blogads3/567552434/feed.css" /><script language="javascript" src="http://images2.dailykos.com/blogads3/567552434/feed.js"></script> 
+<link rel="stylesheet" type="text/css" href="http://images.dailykos.com/blogads3/268421135/feed.css" /><script language="javascript" src="http://images2.dailykos.com/blogads3/268421135/feed.js"></script><link rel="stylesheet" type="text/css" href="http://cache.blogads.com/370324722/feed.css" />
+<script language="javascript" src="http://cache.blogads.com/370324722/feed.js"></script><br/><a href=http://www.blogads.com>blog advertising</a> is good for you
+<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/735758808/feed.css" /><script language="javascript" src="http://cache.blogads.com/735758808/feed.js"></script><!-- <br />
+
+<a href="http://www.eff.org/bloggers/join/"><img src="http://images2.dailykos.com/images/admin/blog_150x40.gif" alt="Support Bloggers' Rights!" width="150" height="40" border="0" align="middle" /><br /><small>Support Bloggers' Rights!</small></a>
+--></p><br />
+</div>
+<h3>Follow</h3>
+<p><iframe src="http://www.facebook.com/plugins/likebox.php?id=43179984254&amp;width=160&amp;connections=10&amp;stream=false&amp;header=true&amp;height=287" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:287px;" allowTransparency="true"></iframe></p>
+<p><a href="http://twitter.com/dailykos"><img src="http://images2.dailykos.com/images/admin/follow_us_a.png" /></a></p>
+<div style="padding-left:19px;">
+<iframe id="dktvadwidget" scrolling="no" height="422" frameborder="0" width="150" src="http://www.dailykostv.com/adwidget.html"></iframe>
+<script type="text/javascript">
+  GA_googleFillSlot("DK_FP_BTF_Sky1_120x600");
+</script>
+
+<script type="text/javascript">
+  GA_googleFillSlot("DK_FP_BTF_Sky2_120x600");
+</script>
+
+</div></div><div id="footer"><p><p><a href="http://sm8.sitemeter.com/stats.asp?site=sm8dailykos" target="_top"><img src="http://sm8.sitemeter.com/meter.asp?site=sm8dailykos" alt="Site Meter" border="0"/></a> <a href="http://www.dailykos.com">Daily Kos homepage</a></p><p>© Kos Media, LLC<br />Site content may be used for any purpose without<br />explicit permission unless otherwise specified.<br />"Kos" and "Daily Kos" are registered trademarks of Kos Media, LLC<br /><a href="http://www.dailykos.com/special/privacy">Privacy Policy</a></p><p>Powered by <a href="http://scoop.kuro5hin.org/">Scoop</a>.</p>
+
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><script type="text/javascript">_qacct="p-94z2SIg8PaHLI";quantserve();</script><noscript><a href="http://www.quantcast.com/p-94z2SIg8PaHLI" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-94z2SIg8PaHLI.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+_uacct = "UA-50193-1";
+urchinTracker();
+</script>
+<!-- Begin comScore Tag -->
+<script>
+    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script>
+
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:7520149,
+    c3:"",
+    c4:"",
+    c5:"",
+    c6:"",
+    c15:""
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7520149&c3=&c4=&c5=&c6=&c15=&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+</p></div></div><script type="text/javascript">
+var _sf_async_config={uid:2709,domain:"dailykos.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script></body></html>
