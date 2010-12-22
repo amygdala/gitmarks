@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+
+<meta name="google-site-verification" content="ZN-uGrzMKQQQMKCFihszHsSG2EIEkaoC1iWyBZyPoWk" />
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<title>Inspiration and Chai</title><style type="text/css"> 
+<!-- 
+body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #ffffff;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+}
+.thrColFixHdr #container { 
+	width: 790px;  /* using 20px less than a full 800px width allows for browser chrome and avoids a horizontal scroll bar */
+	background: #ffffff;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	border: 1px solid #ffffff;
+	text-align: left; /* this overrides the text-align: center on the body element. */
+} 
+.thrColFixHdr #header { 
+	background: #ffffff; 
+	padding: 0 10px 0 20px;  /* this padding matches the left alignment of the elements in the divs that appear beneath it. If an image is used in the #header instead of text, you may want to remove the padding. */
+} 
+.thrColFixHdr #header h1 {
+	margin: 0; /* zeroing the margin of the last element in the #header div will avoid margin collapse - an unexplainable space between divs. If the div has a border around it, this is not necessary as that also avoids the margin collapse */
+	padding: 10px 0; /* using padding instead of margin will allow you to keep the element away from the edges of the div */
+}
+.thrColFixHdr #sidebar1 {
+	float: left; /* since this element is floated, a width must be given */
+	width: 160px; /* the actual width of this div, in standards-compliant browsers, or standards mode in Internet Explorer will include the padding and border in addition to the width */
+	background: #ffffff; /* the background color will be displayed for the length of the content in the column, but no further */
+	padding: 15px 10px 15px 20px; /* padding keeps the content of the div away from the edges */
+}
+.thrColFixHdr #sidebar2 {
+	float: right; /* since this element is floated, a width must be given */
+	width: 160px; /* the actual width of this div, in standards-compliant browsers, or standards mode in Internet Explorer will include the padding and border in addition to the width */
+	background: #ffffff; /* the background color will be displayed for the length of the content in the column, but no further */
+	padding: 15px 10px 15px 20px; /* padding keeps the content of the div away from the edges */
+}
+.thrColFixHdr #mainContent { 
+	margin: 0 200px; /* the right and left margins on this div element creates the two outer columns on the sides of the page. No matter how much content the sidebar divs contain, the column space will remain. You can remove this margin if you want the #mainContent div's text to fill the sidebar spaces when the content in each sidebar ends. */
+	padding: 0 10px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
+} 
+.thrColFixHdr #footer { 
+	padding: 0 10px 0 20px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
+	background:#DDDDDD;
+} 
+.thrColFixHdr #footer p {
+	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
+	padding: 10px 0; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+}
+.fltrt { /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+--> 
+</style><!--[if IE 5]>
+<style type="text/css"> 
+/* place css box model fixes for IE 5* in this conditional comment */
+.thrColFixHdr #sidebar1 { width: 180px; }
+.thrColFixHdr #sidebar2 { width: 190px; }
+</style>
+<![endif]--><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 30px; }
+.thrColFixHdr #mainContent { zoom: 1; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]--></head>
+<body class="thrColFixHdr" link="#0994be" alink="#b4cdb8" bgcolor="#000000" text="#ffffff" vlink="#0994be">
+
+<div id="container">
+  <div id="header">
+        <img src="images/logo.jpg" alt="Inspiration and Chai" /><br />
+    <!-- end #header -->
+    </div>
+  <div id="sidebar1">
+ <br />
+    <font size="2"><br /><br />
+    <a href="index.html" title="Home" target="_self"><strong>Home</strong></a>
+    <p>&nbsp;</p>
+    <h3>MENU</h3>
+ </font>
+
+
+   <font size="2">        <p><a href="donate.html" target="_self">Donate</a></p>
+      <p><a href="songwriting.html" title="Songwriting for Healing" target="_blank">Songwriting for healing</a></p>
+    <p><a href="about.html" target="_self">About Bronnie</a></p>
+    <p><a href="contact.html" target="_self">Contact</a></p>
+     <p><a href="mailto:info@inspirationandchai.com">Subscribe to Newsletter</a></p>     <p>&nbsp;</p>       </font>
+  <font size="2"> <h3><font><font><font><font size="2"><font><font size="2"><a href="archives.html" target="_self"><font><font size="2"><h3> ARTICLE INDEX</h3></font></font></a></font></font></font></font></font></font> </h3>
+    <p><a href="archives.html" target="_self"><strong>Browse</strong></a> all the articles on Inspiration and Chai</p>
+  </font>
+  <p>&nbsp;</p>
+   <p><a href="http://songwritingforhealing.com" target="_blank"><img src="images/swfh-ad-2.jpg" alt="songwriting course" border="0" height="189" width="125" /></a></p>
+   <p>&nbsp;</p>
+  </div>
+  <div id="sidebar2">
+    <h3>&nbsp;</h3>
+                           <script type="text/javascript"><!--
+google_ad_client = "pub-5152757569341167";
+/* I &amp; C No. 1 */
+google_ad_slot = "8661166313";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+ <p>&nbsp;</p>
+  <!-- end #sidebar2 --></div>
+  <div id="mainContent">
+    <p>&nbsp;</p>
+  <!-- start Bronnie this is where the heading for the article goes -->
+ <p><strong><font color="#0994be" face="Georgia, Times New Roman, Times, serif">REGRETS OF THE DYING</font></strong></p>
+ <p>&nbsp;</p>
+ <font size="2">
+    <!-- Bronnie, this is where the article goes -->
+   </font>
+   <p align="center"><img src="images/Spring.jpg" alt="Spring" height="195" width="300" /></p>
+   <p align="justify">&nbsp;</p>
+   <p align="justify"><font size="2">For
+many years I worked in palliative care. My patients were those who had
+gone home to die. Some incredibly special times were shared. I was with
+them for the last three to twelve weeks of their lives.</font></p>
+   <p align="justify"><font size="2">People
+grow a lot when they are faced with their own mortality. I learnt never
+to underestimate someone's capacity for growth. Some changes were
+phenomenal. Each experienced a variety of emotions, as expected,
+denial, fear, anger, remorse, more denial and eventually acceptance.
+Every single patient found their peace before they departed though,
+every one of them.</font></p>
+   <p align="justify"><font size="2">When
+questioned about any regrets they had or anything they would do
+differently, common themes surfaced again and again. Here are the most
+common five:</font></p>
+   <p align="justify">&nbsp;</p>
+   <p align="justify"><font size="2">1. <u>I wish I'd had the courage to live a life true to myself, not the life others expected of me.</u></font></p>
+   <p align="justify"><font size="2">This
+was the most common regret of all. When people realise that their life
+is almost over and look back clearly on it, it is easy to see how many
+dreams have gone unfulfilled. Most people had not honoured even a half
+of their dreams and had to die knowing that it was due to choices they
+had made, or not made.</font></p>
+   <p align="justify"><font size="2">It
+is very important to try and honour at least some of your dreams along
+the way. From the moment that you lose your health, it is too late.
+Health brings a freedom very few realise, until they no longer have it.</font></p>
+   <p align="justify">&nbsp;</p>
+   <p align="justify"><font size="2">2. <u>I wish I didn't work so hard. </u></font></p>
+   <p align="justify"><font size="2">This
+came from every male patient that I nursed. They missed their
+children's youth and their partner's companionship. Women also spoke of
+this regret. But as most were from an older generation, many of the
+female patients had not been breadwinners. All of the men I nursed
+deeply regretted spending so much of their lives on the treadmill of a
+work existence.</font></p>
+   <p align="justify"><font size="2">By
+simplifying your lifestyle and making conscious choices along the way,
+it is possible to not need the income that you think you do. And by
+creating more space in your life, you become happier and more open to
+new opportunities, ones more suited to your new lifestyle. </font></p>
+   <p align="justify">&nbsp;</p>
+   <p align="justify"><font size="2">3. <u>I wish I'd had the courage to express my feelings.</u></font></p>
+   <p align="justify"><font size="2">Many
+people suppressed their feelings in order to keep peace with others. As
+a result, they settled for a mediocre existence and never became who
+they were truly capable of becoming. Many developed illnesses relating
+to the bitterness and resentment they carried as a result.</font></p>
+   <p align="justify"><font size="2">We
+cannot control the reactions of others. However, although people may
+initially react when you change the way you are by speaking honestly,
+in the end it raises the relationship to a whole new and healthier
+level. Either that or it releases the unhealthy relationship from your
+life. Either way, you win.</font></p>
+   <p align="justify">&nbsp;</p>
+   <p align="justify"><font size="2">4. <u>I wish I had stayed in touch with my friends.</u></font></p>
+   <p align="justify"><font size="2">Often
+they would not truly realise the full benefits of old friends until
+their dying weeks and it was not always possible to track them down.
+Many had become so caught up in their own lives that they had let
+golden friendships slip by over the years. There were many deep regrets
+about not giving friendships the time and effort that they deserved.
+Everyone misses their friends when they are dying.</font></p>
+   <p align="justify"><font size="2">It
+is common for anyone in a busy lifestyle to let friendships slip. But
+when you are faced with your approaching death, the physical details of
+life fall away. People do want to get their financial affairs in order
+if possible. But it is not money or status that holds the true
+importance for them. They want to get things in order more for the
+benefit of those they love. Usually though, they are too ill and weary
+to ever manage this task. It is all comes down to love and
+relationships in the end. That is all that remains in the final weeks,
+love and relationships.</font></p>
+   <p align="justify">&nbsp;</p>
+   <p align="justify"><font size="2">5. <u>I wish that I had let myself be happier.</u></font></p>
+   <p align="justify"><font size="2">This
+is a surprisingly common one. Many did not realise until the end that
+happiness is a choice.&nbsp; They had stayed stuck in old patterns and
+habits. The so-called 'comfort' of familiarity overflowed into their
+emotions, as well as their physical lives. Fear of change had them
+pretending to others, and to their selves, that they were content. When
+deep within, they longed to laugh properly and have silliness in their
+life again. </font></p>
+   <p align="justify"><font size="2">When you
+are on your deathbed, what others think of you is a long way from your
+mind. How wonderful to be able to let go and smile again, long before
+you are dying. </font></p>
+   <p align="justify">&nbsp;</p>
+   <p align="justify"><font size="2">Life is a choice. It is YOUR life. Choose consciously, choose wisely, choose honestly. Choose happiness.</font></p>
+   <div align="justify">
+     <p>&nbsp;</p>
+    </div>
+   <!-- end #mainContent --></div>    <p align="center">&nbsp;</p>
+   <p align="center"><img src="images/line.jpg" alt="line" /></p>
+   <p align="center"><strong><font face="verdana" size="1">website designed by <a href="http://mountaintracks.com.au/" target="_blank">Mountain Tracks</a> ¬© 2009</font></strong></p>
+  <!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat" />
+  <div id="footer">
+    <!-- end #footer --></div>
+<!-- end #container --></div>
+</body></html>
