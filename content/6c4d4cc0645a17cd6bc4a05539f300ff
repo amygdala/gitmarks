@@ -1,0 +1,483 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+   <meta name="Robots" content="index,follow" /> 
+  
+  
+  <!-- stronginference -->
+
+  <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1022364&amp;RK=1295145368843&amp;CE=23"/>
+  
+  
+  
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=23"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=23"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=23"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=23"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=23"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=23"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=23"></script>
+<script type="text/javascript" src="/universal/yui/yahoo/yahoo-min.js?CE=23"></script>
+<script type="text/javascript" src="/universal/yui/event/event-min.js?CE=23"></script>
+<script type="text/javascript" src="/universal/yui/event-mouseenter/event-mouseenter-min.js?CE=23"></script>
+<script type="text/javascript" src="/universal/yui/element/element-min.js?CE=23"></script>
+<script type="text/javascript" src="/universal/scripts/social.js?CE=23"></script>
+<script type="text/javascript" src="/universal/scripts/datefmt.js?CE=23"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "StrongInference"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "7175323"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>StrongInference - Scipy Superpack</title>
+  
+
+  <!-- End Heading -->
+
+  <script type="text/javascript" src="http://mathjax.connectmv.com/MathJax.js">
+MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX","output/HTML-CSS"],
+    tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]]}
+  });
+</script>
+
+</head>
+
+<body  id="modulePage7175323"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2Fscipy-superpack"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent2325105" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationTop-moduleContentWrapper5080004">
+
+    <div id="navigationTop-moduleContent5080004">
+
+              <a id="navigationTop-moduleLink5080004" class=" " href="/" ><span>Weblog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper7175323">
+
+    <div id="navigationTop-moduleContent7175323">
+
+              <a id="navigationTop-moduleLink7175323" class=" " href="/scipy-superpack/" ><span>Scipy Superpack</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+              <div id="siteTitleWrapper">
+          <h1 id="siteTitle"><a href="http://stronginference.com/">StrongInference</a></h1>
+           <div id="siteSubtitle" class="h1subtitle">Biostatistical Inference and Computing</div> 
+        </div>
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent2325105" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationBottom-moduleContentWrapper5080004">
+
+    <div id="navigationBottom-moduleContent5080004">
+
+              <a id="navigationBottom-moduleLink5080004" class=" " href="/" ><span>Weblog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper7175323">
+
+    <div id="navigationBottom-moduleContent7175323">
+
+              <a id="navigationBottom-moduleLink7175323" class=" " href="/scipy-superpack/" ><span>Scipy Superpack</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent2325105" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper5080004">
+
+    <div id="moduleContent5080004">
+
+              <a id="moduleLink5080004" class=" " href="/" ><span>Weblog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module active-module  " id="moduleContentWrapper7175323">
+
+    <div id="moduleContent7175323">
+
+              <a id="moduleLink7175323" class=" " href="/scipy-superpack/" ><span>Scipy Superpack</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent3306591" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Twitter</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper7718796" class="widget-wrapper  widget-type-twitter"><div id="moduleContent7718796">
+
+<style type="text/css">
+    <!--
+      #twitter-wrapper-7718796 {
+        display: block;
+        visibility: hidden;
+      }
+            
+    -->
+</style>
+
+<div id="twitter-loading-wrapper-7718796" style="display:none; background:#353535; -moz-border-radius:8px; -webkit-border-radius:8px; height:300px; ">
+  <div id="twitter-loading-img-7718796" style="height:100%; background:url(/universal/images/loading.png) no-repeat center center transparent;" ></div>
+</div>
+
+<div id="twitter-error-wrapper-7718796" style="display:none; background:#353535; -moz-border-radius:8px; -webkit-border-radius:8px; height:300px; ">
+  <a id="twitter-error-img-7718796" style="display:block; height:100%; background:url(/universal/images/loading-refresh.png) no-repeat center center transparent;" 
+    href="javascript:void(0);" onclick="javascript: twitterWidget7718796.show();">&nbsp;</a>
+</div>
+
+
+
+  <div id="twitter-wrapper-7718796" class="twitter-wrapper basic">
+    <div class="twitter-content">
+    
+      <div id="twitter-page-7718796">
+      
+        <div id="tweet-item-7718796-1" class="twitter-item-basic highlight">
+          <div class="twitter-item-content-basic">
+                        <div class="twitter-avatar"><a id="tweet-avatar-link-7718796-1" href="" target="_blank"><img id="tweet-avatar-img-7718796-1" src="" /></a></div>
+            
+                        <div class="twitter-username"><a id="tweet-username-link-7718796-1" href="" target="_blank"></a></div>
+            
+            <span id="tweet-content-7718796-1"></span>
+          </div>
+          <div class="twitter-item-slug">
+                        <div class="twitter-date"><a id="tweet-date-7718796-1" href="" target="_blank"></a></div>
+            
+            <div class="clearer"></div>            
+          </div>
+        </div>
+
+        
+                <div id="tweet-item-7718796-2" class="twitter-item-basic">
+                  <div class="twitter-item-content-basic">
+                                <div class="twitter-avatar"><a id="tweet-avatar-link-7718796-2" href="" target="_blank"><img id="tweet-avatar-img-7718796-2" src="" /></a></div>
+                    
+                                <div class="twitter-username"><a id="tweet-username-link-7718796-2" href="" target="_blank"></a></div>
+                    
+                    <span id="tweet-content-7718796-2"></span>
+                  </div>
+                  <div class="twitter-item-slug">
+                                <div class="twitter-date"><a id="tweet-date-7718796-2" href="" target="_blank"></a></div>
+                    
+                    <div class="clearer"></div>            
+                  </div>
+                </div>
+                
+                <div id="tweet-item-7718796-3" class="twitter-item-basic">
+                  <div class="twitter-item-content-basic">
+                                <div class="twitter-avatar"><a id="tweet-avatar-link-7718796-3" href="" target="_blank"><img id="tweet-avatar-img-7718796-3" src="" /></a></div>
+                    
+                                <div class="twitter-username"><a id="tweet-username-link-7718796-3" href="" target="_blank"></a></div>
+                    
+                    <span id="tweet-content-7718796-3"></span>
+                  </div>
+                  <div class="twitter-item-slug">
+                                <div class="twitter-date"><a id="tweet-date-7718796-3" href="" target="_blank"></a></div>
+                    
+                    <div class="clearer"></div>            
+                  </div>
+                </div>
+                
+                <div id="tweet-item-7718796-4" class="twitter-item-basic">
+                  <div class="twitter-item-content-basic">
+                                <div class="twitter-avatar"><a id="tweet-avatar-link-7718796-4" href="" target="_blank"><img id="tweet-avatar-img-7718796-4" src="" /></a></div>
+                    
+                                <div class="twitter-username"><a id="tweet-username-link-7718796-4" href="" target="_blank"></a></div>
+                    
+                    <span id="tweet-content-7718796-4"></span>
+                  </div>
+                  <div class="twitter-item-slug">
+                                <div class="twitter-date"><a id="tweet-date-7718796-4" href="" target="_blank"></a></div>
+                    
+                    <div class="clearer"></div>            
+                  </div>
+                </div>
+                
+                <div id="tweet-item-7718796-5" class="twitter-item-basic">
+                  <div class="twitter-item-content-basic">
+                                <div class="twitter-avatar"><a id="tweet-avatar-link-7718796-5" href="" target="_blank"><img id="tweet-avatar-img-7718796-5" src="" /></a></div>
+                    
+                                <div class="twitter-username"><a id="tweet-username-link-7718796-5" href="" target="_blank"></a></div>
+                    
+                    <span id="tweet-content-7718796-5"></span>
+                  </div>
+                  <div class="twitter-item-slug">
+                                <div class="twitter-date"><a id="tweet-date-7718796-5" href="" target="_blank"></a></div>
+                    
+                    <div class="clearer"></div>            
+                  </div>
+                </div>
+                              
+      </div>
+
+            <div class="twitter-nav-buttons secondary">
+        <a id="twitter-newer-link-7718796" href="javascript:void(0);" onclick="javascript: twitterWidget7718796.prevPage();" class="twitter-button-newer">Newer</a>
+        <a id="twitter-older-link-7718796" href="javascript:void(0);" onclick="javascript: twitterWidget7718796.nextPage();" class="twitter-button-older">Older</a>
+        <div class="clearer"></div>
+      </div>
+      
+    
+    </div>
+
+    
+          
+  </div>
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+
+  var twitterWidget7718796;
+  
+  E.onDOMReady( function() {
+
+    twitterWidget7718796 = new Squarespace.Social.TwitterWidget(7718796, { preset : 'basic-preset', pageSize : 5, followMeText : 'Follow @username', firstTwitterer : '' });
+    twitterWidget7718796.show();      
+    
+  });
+  
+  
+//-->
+</script></div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+ 
+  
+    <h1>Scipy Superpack for Mac OSX</h1>
+
+<p><p></p>
+
+<p>This shell script will install recent 64-bit builds of <a href="http://numpy.scipy.org">Numpy</a> (2.0) and <a href="http://scipy.org/">Scipy</a> (0.10), <a href="ipython.scipy.org">iPython</a> (0.11), as well as <a href="http://pymc.googlecode.com">PyMC</a> (2.2 alpha) for OS X 10.6 (Snow Leopard) on Intel Macintosh. All builds are based on recent development code from each package, which means though some bugs may be fixed and features added, they also may be more unstable than the official releases. I have also included the release build of <a href="http://matplotlib.sourceforge.net">Matplotlib</a> 1.0, rather than the development version. Distributing them together should improve interoperability, since the supporting packages (Scipy, Matplotlib, PyMC) were all built against the accompanying build of Numpy. These packages were compiled on OS X 10.6 using Apple's Python 2.6.1, FFTW 3.2.2 and GCC 4.2 (build 5646). To avoid compatibility issues, the installer also optionally downloads and installs the gFortran compiler (4.2) built against Snow Leopard's GCC 4.2 for Xcode 3.2.</p>
+
+<p><img src="/storage/superpack_installer.png?__SQUARESPACE_CACHEVERSION=1277500954267" alt="Installer dialog" title="" /></p>
+
+<p><a href="http://idisk.mac.com/fonnesbeck-Public/superpack_10.6_2011.01.13.sh">Download Scipy Superpack Installer for OSX 10.6</a> <em>(Updated 13 January 2011)</em></p>
+
+<p>To install, open a terminal in the directory that the script is located and call:</p>
+
+<p><em>sh superpack_10.6_2011.01.13.sh</em></p>
+
+<p>You will be prompted for your administrator password. If you have already installed the current gFortran, you can bypass that package during the install process.</p>
+
+<p>I have tried to make this build more friendly with 32-bit systems (though you should still be using Python 2.6.1 that ships with Snow Leopard). </p>
+
+<p><em>Having trouble? Send a message to <a href="&#x6D;&#97;&#x69;&#108;&#x74;&#111;:&#x66;&#111;&#110;nes&#x62;e&#99;&#107;&#46;&#98;&#x69;&#111;&#115;&#116;a&#116;&#115;&#64;m&#101;&#x2E;&#99;&#x6F;&#109;">&#x66;&#111;&#110;nes&#x62;e&#99;&#107;&#46;&#98;&#x69;&#111;&#115;&#116;a&#116;&#115;&#64;m&#101;&#x2E;&#99;&#x6F;&#109;</a></em></p>
+
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              <!-- Creative Commons License -->
+<a href="http://creativecommons.org/licenses/by-sa/3.0/">
+<img alt="Creative Commons License" border="0"
+src="http://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a>
+<br />
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by-sa/3.0/"
+>Creative Commons License</a>.
+<!-- /Creative Commons License -->
+<!--
+<rdf:RDF xmlns="http://web.resource.org/cc/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about="">
+<license rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+</Work>
+</rdf:RDF>
+-->
+
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+</body>
+</html>
